@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Budi",
+      "email": "budi@gmail.com",
+      "bidang": "Backend Developer",
+      "id": 1
+    },
+    {
+      "name": "Asep",
+      "email": "asep@gmail.com",
+      "bidang": "DB Engineer",
+      "id": 2
+    }
+  ]
+}
